@@ -14,6 +14,6 @@ If not, create one and let us know.
 
 License (Reserved)
 --------------------------------------------------------------------------------
-sourcetrait.com: Website for ourcetrait.com  
+sourcetrait.com: Website for sourcetrait.com  
 Copyright (C) 2025 [Asmov LLC](https://asmov.software)  
 All rights reserved.
